@@ -8,8 +8,10 @@
 }
 
 .cabecalho {
-    background: green;
+    align-items: center;
+    display: flex;
     grid-area: cabecalho;
+    padding: 0 2rem;
 }
  
 .conteudo {
